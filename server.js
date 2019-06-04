@@ -6,8 +6,7 @@ const mongoose = require('mongoose')
 const cors = require('cors')
 
 // require route files
-const commentRoutes = require('./app/routes/comment_routes')
-const blogRoutes = require('./app/routes/blog_routes')
+const sightingRoutes = require('./app/routes/sighting_routes')
 const exampleRoutes = require('./app/routes/example_routes')
 const userRoutes = require('./app/routes/user_routes')
 
@@ -61,8 +60,7 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 
 // register route files
-app.use(commentRoutes)
-app.use(blogRoutes)
+app.use(sightingRoutes)
 app.use(exampleRoutes)
 app.use(userRoutes)
 
