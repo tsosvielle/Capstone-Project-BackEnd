@@ -9,6 +9,9 @@ dissemenation.
 ## Back end links:
 [Github](https://github.com/tsosvielle/capstone-project-frontend)
 
+## ERD
+![alt text](https://imgur.com/Xe0kW4E "ERD!")
+
 ## Project planning:
 The project had a limited time frame and as such upfront planning was needed to
 scope what could and couldn't be carried over from the initial vision to version
@@ -75,4 +78,3 @@ Upon forking cloning, and downloading both the front and back end of the App
 - Future iterations should have a search feature
 - Future iterations should allow a user to mark a location pin where the sighting occured
 - Future iterations should allow a user to include a photo if available.
->>>>>>> Add readme for backend
