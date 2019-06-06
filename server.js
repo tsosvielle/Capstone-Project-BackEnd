@@ -34,7 +34,7 @@ const app = express()
 // app.use(cors({ origin: process.env.CLIENT_ORIGIN || 'http://localhost:7165' }))
 
 // define port for API to run on
-const port = process.env.PORT || 4741
+// const port = process.env.PORT || 4741
 
 // this middleware makes it so the client can use the Rails convention
 // of `Authorization: Token token=<token>` OR the Express convention of
