@@ -43,10 +43,10 @@ router.get('/sightings', (req, res, next) => {
 
 // SHOW
 // GET /sightings/
-router.get('/sightings', (req, res, next) => {
+router.get('/sightings/:id', (req, res, next) => {
   Sighting.findById(req.params.id)
     .then(handle404)
-    .then(sightings => res.status(200).json({ sighting: sightings }))
+    .then(sightings => res.status(200).json({ sighting: sightings.toObject() }))
     .catch(next)
 })
 
