@@ -6,11 +6,11 @@ scientific and government communities stay abreast of sightings of rare and
 endangered flora and fauna. Users can anonymously post recent sightings for
 dissemenation.
 
-## Back end links:
+## Front End Repo Link:
 [Github](https://github.com/tsosvielle/capstone-project-frontend)
 
 ## ERD
-![alt text](https://imgur.com/Xe0kW4E "ERD!")
+![ERD](https://imgur.com/Xe0kW4E)
 
 ## Project planning:
 The project had a limited time frame and as such upfront planning was needed to
