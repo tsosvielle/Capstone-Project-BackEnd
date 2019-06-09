@@ -10,7 +10,7 @@ dissemenation.
 [Github](https://github.com/tsosvielle/capstone-project-frontend)
 
 ## ERD
-![ERD](https://imgur.com/Xe0kW4E)
+[ERD](https://imgur.com/Xe0kW4E)
 
 ## Project planning:
 The project had a limited time frame and as such upfront planning was needed to
